@@ -1,229 +1,148 @@
 {
-    "users": [
+    "gtingroups": [
         {
-            "id": 99391259,
-            "first_name": "Everett",
-            "last_name": "Halvorson",
-            "age": 30,
-            "email": "Izabella.Grady6@yahoo.com",
-            "username": "Daron.Schumm43",
-            "avatar": "https://cdn.fakercloud.com/avatars/betraydan_128.jpg"
+            "id": "4f8c6db0-25b0-47a3-8b12-06c10db7cf7b",
+            "status": "Jayden",
+            "consumptionTheme": "banana",
+            "title": 23
         },
         {
-            "id": 47083029,
-            "first_name": "Ernie",
-            "last_name": "Ratke",
-            "age": 60,
-            "email": "Zakary45@gmail.com",
-            "username": "Estell.Heidenreich",
-            "avatar": "https://cdn.fakercloud.com/avatars/anjhero_128.jpg"
+            "id": "e3b4178e-3895-401b-8320-2bfaa3ff0cc6",
+            "status": "Annamae",
+            "consumptionTheme": "banana",
+            "title": 34
         },
         {
-            "id": 60434841,
-            "first_name": "Audie",
-            "last_name": "Kassulke",
-            "age": 22,
-            "email": "Susan_Tromp19@yahoo.com",
-            "username": "Joany.Durgan",
-            "avatar": "https://cdn.fakercloud.com/avatars/angelcolberg_128.jpg"
+            "id": "e7c2a6ee-1802-4fd7-8f97-bf25a734985e",
+            "status": "Ahmed",
+            "consumptionTheme": "apple",
+            "title": 47
         },
         {
-            "id": 37488576,
-            "first_name": "Jaquelin",
-            "last_name": "Franecki",
-            "age": 33,
-            "email": "Kurt.Lubowitz54@yahoo.com",
-            "username": "Luisa49",
-            "avatar": "https://cdn.fakercloud.com/avatars/geshan_128.jpg"
+            "id": "248ce8e4-43f3-4518-bdf2-95476dcd36d8",
+            "status": "Destiney",
+            "consumptionTheme": "banana",
+            "title": 28
         },
         {
-            "id": 3218454,
-            "first_name": "Jada",
-            "last_name": "Pfannerstill",
-            "age": 34,
-            "email": "Alek21@gmail.com",
-            "username": "Garry.Dietrich",
-            "avatar": "https://cdn.fakercloud.com/avatars/YoungCutlass_128.jpg"
+            "id": "81de5973-331f-4ab4-ade9-37eb1255422a",
+            "status": "Summer",
+            "consumptionTheme": "apple",
+            "title": 28
         },
         {
-            "id": 86502335,
-            "first_name": "Zane",
-            "last_name": "Hudson",
-            "age": 63,
-            "email": "Coy_Stiedemann74@gmail.com",
-            "username": "Oma_Cassin",
-            "avatar": "https://cdn.fakercloud.com/avatars/coreyginnivan_128.jpg"
+            "id": "b4b0c005-55c4-4e79-9769-fcbadf54097f",
+            "status": "Kaya",
+            "consumptionTheme": "banana",
+            "title": 64
         },
         {
-            "id": 58510241,
-            "first_name": "Lily",
-            "last_name": "Brakus",
-            "age": 42,
-            "email": "Pete79@yahoo.com",
-            "username": "Jermain.Gottlieb69",
-            "avatar": "https://cdn.fakercloud.com/avatars/samuelkraft_128.jpg"
+            "id": "e32549ed-0865-486c-b904-765dc4a11939",
+            "status": "Terrell",
+            "consumptionTheme": "apple",
+            "title": 53
         },
         {
-            "id": 31579920,
-            "first_name": "Omari",
-            "last_name": "Thiel",
-            "age": 18,
-            "email": "Davin_Gutmann@gmail.com",
-            "username": "Alfredo_OHara",
-            "avatar": "https://cdn.fakercloud.com/avatars/vocino_128.jpg"
+            "id": "f78b2971-1056-4f79-8fd8-3339690be927",
+            "status": "Margaret",
+            "consumptionTheme": "banana",
+            "title": 58
         },
         {
-            "id": 84664302,
-            "first_name": "Vada",
-            "last_name": "Konopelski",
-            "age": 59,
-            "email": "Alexis_Feeney44@yahoo.com",
-            "username": "Lorna66",
-            "avatar": "https://cdn.fakercloud.com/avatars/karlkanall_128.jpg"
+            "id": "5c471c82-6b0a-43fc-8e2b-8c12b14f6508",
+            "status": "Oleta",
+            "consumptionTheme": "orange",
+            "title": 23
         },
         {
-            "id": 70148173,
-            "first_name": "Concepcion",
-            "last_name": "Wehner",
-            "age": 54,
-            "email": "Rod.Fritsch29@gmail.com",
-            "username": "Carmine.Greenfelder92",
-            "avatar": "https://cdn.fakercloud.com/avatars/iamkeithmason_128.jpg"
+            "id": "2389f3c5-c376-45d2-b631-135ea33b6cd7",
+            "status": "Tyrese",
+            "consumptionTheme": "apple",
+            "title": 28
         },
         {
-            "id": 5559025,
-            "first_name": "Chaz",
-            "last_name": "Stoltenberg",
-            "age": 68,
-            "email": "Roslyn68@gmail.com",
-            "username": "Roberto25",
-            "avatar": "https://cdn.fakercloud.com/avatars/buleswapnil_128.jpg"
+            "id": "ab17422f-23b0-4d12-a5df-bac38706a468",
+            "status": "Nakia",
+            "consumptionTheme": "orange",
+            "title": 41
         },
         {
-            "id": 42880268,
-            "first_name": "Litzy",
-            "last_name": "Schamberger",
-            "age": 41,
-            "email": "Macie_Streich@yahoo.com",
-            "username": "Stone_Thompson81",
-            "avatar": "https://cdn.fakercloud.com/avatars/eitarafa_128.jpg"
+            "id": "0ac23409-ce23-419b-b41f-b3b8b9cefd41",
+            "status": "Tyree",
+            "consumptionTheme": "banana",
+            "title": 69
         },
         {
-            "id": 4085742,
-            "first_name": "Austin",
-            "last_name": "Kerluke",
-            "age": 60,
-            "email": "Lonnie_McLaughlin@hotmail.com",
-            "username": "Rusty.Koss",
-            "avatar": "https://cdn.fakercloud.com/avatars/jeremymouton_128.jpg"
+            "id": "91e31a23-3e2c-46d5-ae89-c0dd2dfae82d",
+            "status": "Jocelyn",
+            "consumptionTheme": "banana",
+            "title": 59
         },
         {
-            "id": 38092171,
-            "first_name": "Gonzalo",
-            "last_name": "Hintz",
-            "age": 35,
-            "email": "Forest_Lehner@hotmail.com",
-            "username": "Kaci_Ankunding22",
-            "avatar": "https://cdn.fakercloud.com/avatars/trueblood_33_128.jpg"
+            "id": "12d5afb5-f086-4bf3-b0fd-14d0f5ce610d",
+            "status": "Violet",
+            "consumptionTheme": "orange",
+            "title": 63
         },
         {
-            "id": 17061651,
-            "first_name": "Noemy",
-            "last_name": "Mayer",
-            "age": 63,
-            "email": "Earl_Von@gmail.com",
-            "username": "Dan_Lindgren67",
-            "avatar": "https://cdn.fakercloud.com/avatars/thedjpetersen_128.jpg"
+            "id": "abbca857-164c-49cb-ace1-1d1de750c68d",
+            "status": "Elva",
+            "consumptionTheme": "apple",
+            "title": 65
         },
         {
-            "id": 51234358,
-            "first_name": "Bruce",
-            "last_name": "Kulas",
-            "age": 57,
-            "email": "Trey28@yahoo.com",
-            "username": "Pink13",
-            "avatar": "https://cdn.fakercloud.com/avatars/AM_Kn2_128.jpg"
+            "id": "139db1c3-4631-47f1-b546-c5b9f4236553",
+            "status": "Winifred",
+            "consumptionTheme": "orange",
+            "title": 33
         },
         {
-            "id": 99694357,
-            "first_name": "Maritza",
-            "last_name": "Quitzon",
-            "age": 30,
-            "email": "Roderick.Schamberger91@yahoo.com",
-            "username": "Percy_Kessler61",
-            "avatar": "https://cdn.fakercloud.com/avatars/BenouarradeM_128.jpg"
+            "id": "b5ab0e64-67a1-430b-bc26-6552701c990c",
+            "status": "Vernon",
+            "consumptionTheme": "apple",
+            "title": 45
         },
         {
-            "id": 76067019,
-            "first_name": "Timothy",
-            "last_name": "Carroll",
-            "age": 46,
-            "email": "Ada.Franecki@hotmail.com",
-            "username": "Jordyn_McKenzie",
-            "avatar": "https://cdn.fakercloud.com/avatars/spedwig_128.jpg"
+            "id": "7977089e-a66f-46d0-b49c-c1cd2b069a62",
+            "status": "Lucie",
+            "consumptionTheme": "orange",
+            "title": 62
         },
         {
-            "id": 28293156,
-            "first_name": "Zechariah",
-            "last_name": "Wehner",
-            "age": 65,
-            "email": "Simeon92@yahoo.com",
-            "username": "Emmet_Denesik",
-            "avatar": "https://cdn.fakercloud.com/avatars/dvdwinden_128.jpg"
+            "id": "377a6805-db86-4560-b158-5879d35af5d5",
+            "status": "Brenden",
+            "consumptionTheme": "apple",
+            "title": 62
         },
         {
-            "id": 37341640,
-            "first_name": "Sophia",
-            "last_name": "Zemlak",
-            "age": 45,
-            "email": "Darrell_Stroman@gmail.com",
-            "username": "Tabitha63",
-            "avatar": "https://cdn.fakercloud.com/avatars/mandalareopens_128.jpg"
+            "id": "a18e41f8-b2d4-40f3-a20b-35549d999511",
+            "status": "Marjolaine",
+            "consumptionTheme": "apple",
+            "title": 43
         },
         {
-            "id": 14598762,
-            "first_name": "Jordane",
-            "last_name": "Boehm",
-            "age": 19,
-            "email": "Grover30@hotmail.com",
-            "username": "Trystan30",
-            "avatar": "https://cdn.fakercloud.com/avatars/michaelmartinho_128.jpg"
+            "id": "039505b2-5d05-4ed3-af16-3d808fb815c7",
+            "status": "Jalon",
+            "consumptionTheme": "banana",
+            "title": 54
         },
         {
-            "id": 62184204,
-            "first_name": "Daphnee",
-            "last_name": "Renner",
-            "age": 55,
-            "email": "Madalyn.Stark45@yahoo.com",
-            "username": "Rogers12",
-            "avatar": "https://cdn.fakercloud.com/avatars/nelshd_128.jpg"
+            "id": "1520b288-d0b3-498a-a7a9-2fddceeaa58d",
+            "status": "Micaela",
+            "consumptionTheme": "orange",
+            "title": 39
         },
         {
-            "id": 37558694,
-            "first_name": "Aileen",
-            "last_name": "Sawayn",
-            "age": 40,
-            "email": "Adela_Becker4@gmail.com",
-            "username": "Mallory24",
-            "avatar": "https://cdn.fakercloud.com/avatars/petrangr_128.jpg"
+            "id": "3f20ed44-d4b6-4fbd-afd1-91aa28f15962",
+            "status": "Chelsey",
+            "consumptionTheme": "orange",
+            "title": 38
         },
         {
-            "id": 70749482,
-            "first_name": "Everett",
-            "last_name": "Hand",
-            "age": 67,
-            "email": "Shana.Lockman57@hotmail.com",
-            "username": "Carlo_Hackett4",
-            "avatar": "https://cdn.fakercloud.com/avatars/itsajimithing_128.jpg"
-        },
-        {
-            "id": 90069026,
-            "first_name": "Jaren",
-            "last_name": "Jast",
-            "age": 18,
-            "email": "Earl48@hotmail.com",
-            "username": "Mckenna_Osinski",
-            "avatar": "https://cdn.fakercloud.com/avatars/johnriordan_128.jpg"
+            "id": "1f4b6b76-aa4b-4ef3-b674-50357ec0ea72",
+            "status": "Lionel",
+            "consumptionTheme": "banana",
+            "title": 49
         }
     ]
 }

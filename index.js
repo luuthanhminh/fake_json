@@ -1,56 +1,50 @@
 
+const {Chance} = require('chance')
 const {resolve, extend} = require('json-schema-faker');
 const fs = require('fs');
 extend('faker', () => require('@faker-js/faker'));
+extend('chance', () => new Chance());
 const schema = {
   type: "object",
-  required: ["users"],
+  required: ["gtingroups"],
   properties: {
-    users: {
+    gtingroups: {
       type: "array",
       minItems: 20,
-      items: { "$ref": "#/definitions/users" }
+      items: { "$ref": "#/definitions/gtingroups" }
     }
   },
   definitions: {
-    users: {
+    gtingroups: {
       type: "object",
-      required: [ "id", "first_name", "last_name", "age", "email", "username", "avatar" ],
+      required: [ "id", "status", "consumptionTheme", "title"],
       properties: {
         id: {
-          $ref: '#/definitions/positiveInt'
+          type: "string",
+          faker: "datatype.uuid"
         },
-        first_name: {
+        status: {
           type: "string",
           faker: "name.firstName"
         },
-        last_name: {
+        consumptionTheme: {
           type: "string",
-          faker: "name.lastName"
+          chance: {
+            "pickone": [
+              [
+                "banana",
+                "apple",
+                "orange"
+              ]
+            ]
+          }
         },
-        age: {
+        title: {
           type: "integer",
           maximum: 70,
           minimum: 18
-        },
-        email: {
-          type: "string",
-          faker: "internet.email"
-        },
-        username: {
-          type: "string",
-          faker: "internet.userName"
-        },
-        avatar: {
-          type: "string",
-          faker: "internet.avatar"
         }
       }
-    },
-    positiveInt: {
-      type: 'integer',
-      minimum: 0,
-      exclusiveMinimum: true
     }
   }
 }
