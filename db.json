@@ -1,148 +1,512 @@
 {
-    "gtingroups": [
+    "pendingGtingroups": [
         {
-            "id": "4f8c6db0-25b0-47a3-8b12-06c10db7cf7b",
-            "status": "Jayden",
-            "consumptionTheme": "banana",
-            "title": 23
+            "id": "5706927e-ea81-4978-b894-fdc0e28e9915",
+            "gtins": [
+                "63314778848561",
+                "71476487958756"
+            ],
+            "title": "Rustic Soft Chair",
+            "manufacturerColor": "pink",
+            "previewImageSource": "http://placeimg.com/640/480/fashion",
+            "numberOfAssets": 4,
+            "status": "HAKA Rejected CASUAL",
+            "classification": "toysAndGames|toys|playFigures",
+            "brand": "DENIM",
+            "channel": "Gorgeous",
+            "assets": [
+                {
+                    "id": "ef76af32-5125-4b9e-9a0c-64c6c51b4668",
+                    "revisionReason": "mistake by autoRetouch",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "2000x200",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "Back",
+                    "mediaId": "1",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "91205625-9911-4e97-9f09-530aed5171b8",
+                    "revisionReason": "Background is cropped wrong",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "FrontLeft",
+                    "mediaId": "2",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "9ed4cd50-ec79-468b-a14c-e2520d625104",
+                    "revisionReason": "mistake by autoRetouch",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "NoHeadHumanModel",
+                    "perspective": "BackAngle",
+                    "mediaId": "3",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "6b40bf9c-62ed-4572-bd41-4ca367dd43a8",
+                    "revisionReason": "Background is cropped wrong",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "Front",
+                    "mediaId": "1",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                }
+            ]
         },
         {
-            "id": "e3b4178e-3895-401b-8320-2bfaa3ff0cc6",
-            "status": "Annamae",
-            "consumptionTheme": "banana",
-            "title": 34
+            "id": "05ed9db5-a1ed-4212-89ca-25f9d7ab0e18",
+            "gtins": [
+                "1531993543956",
+                "22192725916162",
+                "87139467442240",
+                "1168862976419",
+                "8476955938782"
+            ],
+            "title": "Practical Concrete Fish",
+            "manufacturerColor": "black",
+            "previewImageSource": "http://placeimg.com/640/480/fashion",
+            "numberOfAssets": 4,
+            "status": "HAKA Rejected CASUAL",
+            "classification": "toysAndGames|toys|playFigures",
+            "brand": "ACCESSOIRES",
+            "channel": "Handmade",
+            "assets": [
+                {
+                    "id": "ad5f3f70-593e-4864-aaf5-0e76eb825507",
+                    "revisionReason": "mistake by autoRetouch",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "2000x200",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "Front",
+                    "mediaId": "2",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "4743b127-aa2b-4174-885e-3550cc05b643",
+                    "revisionReason": "bad quality",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "2000x200",
+                    "subject": "NoHeadHumanModel",
+                    "perspective": "BackAngle",
+                    "mediaId": "3",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "a641083c-7852-497a-bc56-de95e8bfeda9",
+                    "revisionReason": "mistake by autoRetouch",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "NoHeadHumanModel",
+                    "perspective": "BackAngle",
+                    "mediaId": "1",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                }
+            ]
         },
         {
-            "id": "e7c2a6ee-1802-4fd7-8f97-bf25a734985e",
-            "status": "Ahmed",
-            "consumptionTheme": "apple",
-            "title": 47
+            "id": "88b43f16-d1e5-4658-befb-1735d4dd08e7",
+            "gtins": [
+                "57584199433983",
+                "86887143147359",
+                "77978515235420",
+                "5381432336774"
+            ],
+            "title": "Awesome Frozen Fish",
+            "manufacturerColor": "indigo",
+            "previewImageSource": "http://placeimg.com/640/480/fashion",
+            "numberOfAssets": 4,
+            "status": "HAKA Rejected CASUAL",
+            "classification": "toysAndGames|toys|playFigures",
+            "brand": "ACCESSOIRES",
+            "channel": "Generic",
+            "assets": [
+                {
+                    "id": "1576b25e-8633-4522-8471-b493702be080",
+                    "revisionReason": "mistake by autoRetouch",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "FrontLeft",
+                    "mediaId": "2",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "0b8dcb73-fff2-4878-b254-391efe534ab3",
+                    "revisionReason": "mistake by autoRetouch",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "NoHeadHumanModel",
+                    "perspective": "BackAngle",
+                    "mediaId": "3",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "d0ea6638-f555-4664-8060-bc329bc56bb7",
+                    "revisionReason": "bad quality",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "2000x200",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "FrontLeft",
+                    "mediaId": "1",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                }
+            ]
         },
         {
-            "id": "248ce8e4-43f3-4518-bdf2-95476dcd36d8",
-            "status": "Destiney",
-            "consumptionTheme": "banana",
-            "title": 28
+            "id": "f8ab928a-a3ce-45d9-b009-32e48511e53e",
+            "gtins": [
+                "22653541419853",
+                "3353794356518",
+                "68413597513565",
+                "1628393216388"
+            ],
+            "title": "Intelligent Wooden Towels",
+            "manufacturerColor": "gold",
+            "previewImageSource": "http://placeimg.com/640/480/fashion",
+            "numberOfAssets": 4,
+            "status": "HAKA Rejected CASUAL",
+            "classification": "toysAndGames|toys|playFigures",
+            "brand": "DENIM",
+            "channel": "Handcrafted",
+            "assets": [
+                {
+                    "id": "b8921ccb-4b56-4ae9-874c-a24dc93dc856",
+                    "revisionReason": "mistake by autoRetouch",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "2000x200",
+                    "subject": "NoHeadHumanModel",
+                    "perspective": "Back",
+                    "mediaId": "2",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "bf64944f-1e89-4c3d-8004-759c55f9877d",
+                    "revisionReason": "bad quality",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "2000x200",
+                    "subject": "FullBody",
+                    "perspective": "FrontLeft",
+                    "mediaId": "3",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                }
+            ]
         },
         {
-            "id": "81de5973-331f-4ab4-ade9-37eb1255422a",
-            "status": "Summer",
-            "consumptionTheme": "apple",
-            "title": 28
+            "id": "99606334-9673-45b0-a95c-f6de302173bc",
+            "gtins": [
+                "6116869586953",
+                "51325154596886"
+            ],
+            "title": "Handcrafted Steel Chair",
+            "manufacturerColor": "indigo",
+            "previewImageSource": "http://placeimg.com/640/480/fashion",
+            "numberOfAssets": 4,
+            "status": "WaitingForReview",
+            "classification": "toysAndGames|toys|playFigures",
+            "brand": "HAKA MODERN CASUAL",
+            "channel": "Sleek",
+            "assets": [
+                {
+                    "id": "03c7e967-62dc-45de-be00-d9767c670af7",
+                    "revisionReason": "bad quality",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "FullBody",
+                    "perspective": "Back",
+                    "mediaId": "1",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "0564831a-0d4b-453f-84d1-fbc1ca0ca06f",
+                    "revisionReason": "bad quality",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "2000x200",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "BackAngle",
+                    "mediaId": "2",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "bb808f52-dbb5-4f40-a81a-0b2369f957db",
+                    "revisionReason": "bad quality",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "2000x200",
+                    "subject": "NoHeadHumanModel",
+                    "perspective": "FrontLeft",
+                    "mediaId": "3",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "aae62bff-4a74-479d-8622-a5fa761c1213",
+                    "revisionReason": "Background is cropped wrong",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "BackAngle",
+                    "mediaId": "1",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                }
+            ]
         },
         {
-            "id": "b4b0c005-55c4-4e79-9769-fcbadf54097f",
-            "status": "Kaya",
-            "consumptionTheme": "banana",
-            "title": 64
+            "id": "2ae838e2-c4d3-481d-a366-5eef87d91ea0",
+            "gtins": [
+                "2426158874533",
+                "87389446565957"
+            ],
+            "title": "Ergonomic Wooden Table",
+            "manufacturerColor": "salmon",
+            "previewImageSource": "http://placeimg.com/640/480/fashion",
+            "numberOfAssets": 4,
+            "status": "WaitingForReview",
+            "classification": "toysAndGames|toys|playFigures",
+            "brand": "DENIM",
+            "channel": "Sleek",
+            "assets": [
+                {
+                    "id": "e5a18872-bcc4-48bd-8a3c-ac475d162242",
+                    "revisionReason": "mistake by autoRetouch",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "2000x200",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "FrontLeft",
+                    "mediaId": "2",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "1811b8e6-aa1b-4102-ba2a-1d4bfa5c512d",
+                    "revisionReason": "bad quality",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "FullBody",
+                    "perspective": "FrontLeft",
+                    "mediaId": "3",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "43729468-7c28-4078-b396-96887afcefdc",
+                    "revisionReason": "Background is cropped wrong",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "Back",
+                    "mediaId": "1",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                }
+            ]
         },
         {
-            "id": "e32549ed-0865-486c-b904-765dc4a11939",
-            "status": "Terrell",
-            "consumptionTheme": "apple",
-            "title": 53
+            "id": "c2448b47-2d46-4aa1-8a82-6da600ff5e66",
+            "gtins": [
+                "58451161299230",
+                "7956899456286",
+                "38871726394391",
+                "8243169543892",
+                "9286551983217"
+            ],
+            "title": "Handmade Steel Chair",
+            "manufacturerColor": "maroon",
+            "previewImageSource": "http://placeimg.com/640/480/fashion",
+            "numberOfAssets": 4,
+            "status": "WaitingForReview",
+            "classification": "toysAndGames|toys|playFigures",
+            "brand": "DENIM",
+            "channel": "Incredible",
+            "assets": [
+                {
+                    "id": "10054751-4df9-4b8b-8428-b00b6e7a7222",
+                    "revisionReason": "bad quality",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "NoHeadHumanModel",
+                    "perspective": "BackAngle",
+                    "mediaId": "2",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "99c2ca7a-cb00-4c12-83e1-2797030f7cff",
+                    "revisionReason": "mistake by autoRetouch",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "2000x200",
+                    "subject": "FullBody",
+                    "perspective": "Back",
+                    "mediaId": "3",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "66f0b257-ab09-49fd-993e-f4cfd83dc20f",
+                    "revisionReason": "Background is cropped wrong",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "NoHeadHumanModel",
+                    "perspective": "FrontLeft",
+                    "mediaId": "1",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                }
+            ]
         },
         {
-            "id": "f78b2971-1056-4f79-8fd8-3339690be927",
-            "status": "Margaret",
-            "consumptionTheme": "banana",
-            "title": 58
+            "id": "95e5a97f-91f8-420f-99ca-a87d89d71d87",
+            "gtins": [
+                "3313576751193",
+                "1855492255684",
+                "9567346582763",
+                "12814173641368",
+                "57636177559687"
+            ],
+            "title": "Refined Frozen Chicken",
+            "manufacturerColor": "white",
+            "previewImageSource": "http://placeimg.com/640/480/fashion",
+            "numberOfAssets": 4,
+            "status": "WaitingForReview",
+            "classification": "toysAndGames|toys|playFigures",
+            "brand": "DENIM",
+            "channel": "Refined",
+            "assets": [
+                {
+                    "id": "aba12942-331d-444e-9e63-b00a72c37ede",
+                    "revisionReason": "bad quality",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "Front",
+                    "mediaId": "2",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "ae2ebbb5-c702-4864-b934-b77248daf64e",
+                    "revisionReason": "bad quality",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "FullBody",
+                    "perspective": "BackAngle",
+                    "mediaId": "3",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "9a9e77c4-4285-4d5a-9e99-92a2a4583a3e",
+                    "revisionReason": "mistake by autoRetouch",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "Back",
+                    "mediaId": "1",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                }
+            ]
         },
         {
-            "id": "5c471c82-6b0a-43fc-8e2b-8c12b14f6508",
-            "status": "Oleta",
-            "consumptionTheme": "orange",
-            "title": 23
+            "id": "33f8d178-9596-4a67-94ad-9285a421c5eb",
+            "gtins": [
+                "11944195736248",
+                "18984273247827"
+            ],
+            "title": "Awesome Frozen Soap",
+            "manufacturerColor": "orange",
+            "previewImageSource": "http://placeimg.com/640/480/fashion",
+            "numberOfAssets": 4,
+            "status": "HAKA Rejected CASUAL",
+            "classification": "toysAndGames|toys|playFigures",
+            "brand": "ACCESSOIRES",
+            "channel": "Incredible",
+            "assets": [
+                {
+                    "id": "fbf405b7-f63e-41c3-901d-4409007f9eff",
+                    "revisionReason": "Background is cropped wrong",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "2000x200",
+                    "subject": "NoHeadHumanModel",
+                    "perspective": "FrontLeft",
+                    "mediaId": "2",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "7d530e85-f0e8-45b3-b378-cadbffdc453f",
+                    "revisionReason": "mistake by autoRetouch",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "FullBody",
+                    "perspective": "Back",
+                    "mediaId": "3",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                }
+            ]
         },
         {
-            "id": "2389f3c5-c376-45d2-b631-135ea33b6cd7",
-            "status": "Tyrese",
-            "consumptionTheme": "apple",
-            "title": 28
+            "id": "0419a64e-100a-4cfc-967f-4af28a68d509",
+            "gtins": [
+                "2381667314715",
+                "63856256852919"
+            ],
+            "title": "Generic Metal Shoes",
+            "manufacturerColor": "teal",
+            "previewImageSource": "http://placeimg.com/640/480/fashion",
+            "numberOfAssets": 4,
+            "status": "HAKA Rejected CASUAL",
+            "classification": "toysAndGames|toys|playFigures",
+            "brand": "ACCESSOIRES",
+            "channel": "Practical",
+            "assets": [
+                {
+                    "id": "5c7739ba-4d1f-482b-beaa-0bbacd62de41",
+                    "revisionReason": "bad quality",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "NoHeadHumanModel",
+                    "perspective": "BackAngle",
+                    "mediaId": "1",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "f8979ccc-a22f-463e-a92b-818b62366083",
+                    "revisionReason": "mistake by autoRetouch",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "2000x200",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "Back",
+                    "mediaId": "2",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "d86e3bae-3d1c-43e4-b336-4825a27a6752",
+                    "revisionReason": "bad quality",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "FullBody",
+                    "perspective": "Back",
+                    "mediaId": "3",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "e052d763-c1f6-4355-beb6-9476aae4a24e",
+                    "revisionReason": "mistake by autoRetouch",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "FullBody",
+                    "perspective": "BackAngle",
+                    "mediaId": "1",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                }
+            ]
+        }
+    ],
+    "rejectedGtingroups": [],
+    "revisionReasons": [
+        {
+            "id": "3df9682e-e2f1-4b64-bf3e-ca98ff0252fe",
+            "reason": "bad quality"
         },
         {
-            "id": "ab17422f-23b0-4d12-a5df-bac38706a468",
-            "status": "Nakia",
-            "consumptionTheme": "orange",
-            "title": 41
+            "id": "df967444-5b83-466a-b3bf-3cdedf6e5585",
+            "reason": "mistake by autoRetouch"
         },
         {
-            "id": "0ac23409-ce23-419b-b41f-b3b8b9cefd41",
-            "status": "Tyree",
-            "consumptionTheme": "banana",
-            "title": 69
-        },
-        {
-            "id": "91e31a23-3e2c-46d5-ae89-c0dd2dfae82d",
-            "status": "Jocelyn",
-            "consumptionTheme": "banana",
-            "title": 59
-        },
-        {
-            "id": "12d5afb5-f086-4bf3-b0fd-14d0f5ce610d",
-            "status": "Violet",
-            "consumptionTheme": "orange",
-            "title": 63
-        },
-        {
-            "id": "abbca857-164c-49cb-ace1-1d1de750c68d",
-            "status": "Elva",
-            "consumptionTheme": "apple",
-            "title": 65
-        },
-        {
-            "id": "139db1c3-4631-47f1-b546-c5b9f4236553",
-            "status": "Winifred",
-            "consumptionTheme": "orange",
-            "title": 33
-        },
-        {
-            "id": "b5ab0e64-67a1-430b-bc26-6552701c990c",
-            "status": "Vernon",
-            "consumptionTheme": "apple",
-            "title": 45
-        },
-        {
-            "id": "7977089e-a66f-46d0-b49c-c1cd2b069a62",
-            "status": "Lucie",
-            "consumptionTheme": "orange",
-            "title": 62
-        },
-        {
-            "id": "377a6805-db86-4560-b158-5879d35af5d5",
-            "status": "Brenden",
-            "consumptionTheme": "apple",
-            "title": 62
-        },
-        {
-            "id": "a18e41f8-b2d4-40f3-a20b-35549d999511",
-            "status": "Marjolaine",
-            "consumptionTheme": "apple",
-            "title": 43
-        },
-        {
-            "id": "039505b2-5d05-4ed3-af16-3d808fb815c7",
-            "status": "Jalon",
-            "consumptionTheme": "banana",
-            "title": 54
-        },
-        {
-            "id": "1520b288-d0b3-498a-a7a9-2fddceeaa58d",
-            "status": "Micaela",
-            "consumptionTheme": "orange",
-            "title": 39
-        },
-        {
-            "id": "3f20ed44-d4b6-4fbd-afd1-91aa28f15962",
-            "status": "Chelsey",
-            "consumptionTheme": "orange",
-            "title": 38
-        },
-        {
-            "id": "1f4b6b76-aa4b-4ef3-b674-50357ec0ea72",
-            "status": "Lionel",
-            "consumptionTheme": "banana",
-            "title": 49
+            "id": "ac12665d-7d56-4b3e-990a-4e00b0d24d9c",
+            "reason": "bad quality"
         }
     ]
 }
