@@ -1,511 +1,590 @@
 {
     "pendingGtingroups": [
         {
-            "id": "5706927e-ea81-4978-b894-fdc0e28e9915",
+            "id": "d6287171-9efe-4137-ac0d-2d287cff32fe",
             "gtins": [
-                "63314778848561",
-                "71476487958756"
+                "45567147586659",
+                "91993967655461",
+                "2952677323432"
             ],
-            "title": "Rustic Soft Chair",
-            "manufacturerColor": "pink",
+            "title": "Licensed Steel Towels",
+            "manufacturerColor": "sky blue",
             "previewImageSource": "http://placeimg.com/640/480/fashion",
-            "numberOfAssets": 4,
-            "status": "HAKA Rejected CASUAL",
+            "numberOfAssets": 3,
+            "status": "WaitingForReview",
             "classification": "toysAndGames|toys|playFigures",
             "brand": "DENIM",
-            "channel": "Gorgeous",
-            "assets": [
-                {
-                    "id": "ef76af32-5125-4b9e-9a0c-64c6c51b4668",
-                    "revisionReason": "mistake by autoRetouch",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "2000x200",
-                    "subject": "WithHeadHumanModel",
-                    "perspective": "Back",
-                    "mediaId": "1",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                },
-                {
-                    "id": "91205625-9911-4e97-9f09-530aed5171b8",
-                    "revisionReason": "Background is cropped wrong",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "1600x1600",
-                    "subject": "WithHeadHumanModel",
-                    "perspective": "FrontLeft",
-                    "mediaId": "2",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                },
-                {
-                    "id": "9ed4cd50-ec79-468b-a14c-e2520d625104",
-                    "revisionReason": "mistake by autoRetouch",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "1600x1600",
-                    "subject": "NoHeadHumanModel",
-                    "perspective": "BackAngle",
-                    "mediaId": "3",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                },
-                {
-                    "id": "6b40bf9c-62ed-4572-bd41-4ca367dd43a8",
-                    "revisionReason": "Background is cropped wrong",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "1600x1600",
-                    "subject": "WithHeadHumanModel",
-                    "perspective": "Front",
-                    "mediaId": "1",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                }
-            ]
-        },
-        {
-            "id": "05ed9db5-a1ed-4212-89ca-25f9d7ab0e18",
-            "gtins": [
-                "1531993543956",
-                "22192725916162",
-                "87139467442240",
-                "1168862976419",
-                "8476955938782"
-            ],
-            "title": "Practical Concrete Fish",
-            "manufacturerColor": "black",
-            "previewImageSource": "http://placeimg.com/640/480/fashion",
-            "numberOfAssets": 4,
-            "status": "HAKA Rejected CASUAL",
-            "classification": "toysAndGames|toys|playFigures",
-            "brand": "ACCESSOIRES",
             "channel": "Handmade",
             "assets": [
                 {
-                    "id": "ad5f3f70-593e-4864-aaf5-0e76eb825507",
-                    "revisionReason": "mistake by autoRetouch",
+                    "id": "4ef73494-9410-45d0-854b-81f54cd06bfe",
+                    "revisionReason": "",
                     "status": "WaitingForReview",
-                    "resolutionInPx": "2000x200",
+                    "resolutionInPx": "1600x1600",
                     "subject": "WithHeadHumanModel",
                     "perspective": "Front",
-                    "mediaId": "2",
+                    "mediaId": "01",
                     "imageUrl": "http://placeimg.com/640/480/fashion"
                 },
                 {
-                    "id": "4743b127-aa2b-4174-885e-3550cc05b643",
-                    "revisionReason": "bad quality",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "2000x200",
-                    "subject": "NoHeadHumanModel",
-                    "perspective": "BackAngle",
-                    "mediaId": "3",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                },
-                {
-                    "id": "a641083c-7852-497a-bc56-de95e8bfeda9",
-                    "revisionReason": "mistake by autoRetouch",
+                    "id": "6d767b35-627b-458c-8fe0-9003d3c578c7",
+                    "revisionReason": "",
                     "status": "WaitingForReview",
                     "resolutionInPx": "1600x1600",
                     "subject": "NoHeadHumanModel",
-                    "perspective": "BackAngle",
-                    "mediaId": "1",
+                    "perspective": "Front",
+                    "mediaId": "02",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "77d1d078-0188-408d-919f-6ad6e198c1c8",
+                    "revisionReason": "",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "2000x2000",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "Back",
+                    "mediaId": "03",
                     "imageUrl": "http://placeimg.com/640/480/fashion"
                 }
             ]
         },
         {
-            "id": "88b43f16-d1e5-4658-befb-1735d4dd08e7",
+            "id": "f36da2fb-6ced-4c2e-bb40-d18b3df10b08",
             "gtins": [
-                "57584199433983",
-                "86887143147359",
-                "77978515235420",
-                "5381432336774"
+                "53748747634268",
+                "9896569921373"
             ],
-            "title": "Awesome Frozen Fish",
-            "manufacturerColor": "indigo",
+            "title": "Practical Steel Chair",
+            "manufacturerColor": "ivory",
             "previewImageSource": "http://placeimg.com/640/480/fashion",
-            "numberOfAssets": 4,
-            "status": "HAKA Rejected CASUAL",
-            "classification": "toysAndGames|toys|playFigures",
-            "brand": "ACCESSOIRES",
-            "channel": "Generic",
-            "assets": [
-                {
-                    "id": "1576b25e-8633-4522-8471-b493702be080",
-                    "revisionReason": "mistake by autoRetouch",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "1600x1600",
-                    "subject": "WithHeadHumanModel",
-                    "perspective": "FrontLeft",
-                    "mediaId": "2",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                },
-                {
-                    "id": "0b8dcb73-fff2-4878-b254-391efe534ab3",
-                    "revisionReason": "mistake by autoRetouch",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "1600x1600",
-                    "subject": "NoHeadHumanModel",
-                    "perspective": "BackAngle",
-                    "mediaId": "3",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                },
-                {
-                    "id": "d0ea6638-f555-4664-8060-bc329bc56bb7",
-                    "revisionReason": "bad quality",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "2000x200",
-                    "subject": "WithHeadHumanModel",
-                    "perspective": "FrontLeft",
-                    "mediaId": "1",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                }
-            ]
-        },
-        {
-            "id": "f8ab928a-a3ce-45d9-b009-32e48511e53e",
-            "gtins": [
-                "22653541419853",
-                "3353794356518",
-                "68413597513565",
-                "1628393216388"
-            ],
-            "title": "Intelligent Wooden Towels",
-            "manufacturerColor": "gold",
-            "previewImageSource": "http://placeimg.com/640/480/fashion",
-            "numberOfAssets": 4,
-            "status": "HAKA Rejected CASUAL",
+            "numberOfAssets": 2,
+            "status": "Rejected",
             "classification": "toysAndGames|toys|playFigures",
             "brand": "DENIM",
-            "channel": "Handcrafted",
+            "channel": "Practical",
             "assets": [
                 {
-                    "id": "b8921ccb-4b56-4ae9-874c-a24dc93dc856",
-                    "revisionReason": "mistake by autoRetouch",
+                    "id": "1920b1cb-00a9-443a-a118-132b24a55298",
+                    "revisionReason": "",
                     "status": "WaitingForReview",
-                    "resolutionInPx": "2000x200",
+                    "resolutionInPx": "2000x2000",
                     "subject": "NoHeadHumanModel",
                     "perspective": "Back",
-                    "mediaId": "2",
+                    "mediaId": "01",
                     "imageUrl": "http://placeimg.com/640/480/fashion"
                 },
                 {
-                    "id": "bf64944f-1e89-4c3d-8004-759c55f9877d",
-                    "revisionReason": "bad quality",
+                    "id": "1417c167-74d5-4b1b-9f23-208107d5ba7d",
+                    "revisionReason": "",
                     "status": "WaitingForReview",
-                    "resolutionInPx": "2000x200",
-                    "subject": "FullBody",
-                    "perspective": "FrontLeft",
-                    "mediaId": "3",
+                    "resolutionInPx": "2000x2000",
+                    "subject": "NoHeadHumanModel",
+                    "perspective": "Back",
+                    "mediaId": "02",
                     "imageUrl": "http://placeimg.com/640/480/fashion"
                 }
             ]
         },
         {
-            "id": "99606334-9673-45b0-a95c-f6de302173bc",
+            "id": "b8c27141-f2c3-4429-9d0b-dd37567b5a08",
             "gtins": [
-                "6116869586953",
-                "51325154596886"
+                "54379559318865",
+                "3944617123152",
+                "2643896333588",
+                "59848336437730"
             ],
-            "title": "Handcrafted Steel Chair",
-            "manufacturerColor": "indigo",
+            "title": "Tasty Rubber Chair",
+            "manufacturerColor": "black",
+            "previewImageSource": "http://placeimg.com/640/480/fashion",
+            "numberOfAssets": 4,
+            "status": "WaitingForReview",
+            "classification": "toysAndGames|toys|playFigures",
+            "brand": "ACCESSOIRES",
+            "channel": "Rustic",
+            "assets": [
+                {
+                    "id": "e54a50e0-2f15-4872-b5e8-19a3a4412e78",
+                    "revisionReason": "",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "NoHeadHumanModel",
+                    "perspective": "Back",
+                    "mediaId": "01",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "c3e3c808-6a5b-4df6-bf4f-10e4fe3394d2",
+                    "revisionReason": "",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "FullBody",
+                    "perspective": "FrontLeft",
+                    "mediaId": "02",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "b6fb9e6b-3f5e-4bec-a7ce-7fb8cb7c3ae7",
+                    "revisionReason": "",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "FullBody",
+                    "perspective": "Front",
+                    "mediaId": "03",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "71beb707-8928-40aa-8158-55362fa9679e",
+                    "revisionReason": "",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "2000x2000",
+                    "subject": "FullBody",
+                    "perspective": "FrontLeft",
+                    "mediaId": "04",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                }
+            ]
+        },
+        {
+            "id": "ecf1e0cc-44ea-4b98-9f5d-89681dd8e16d",
+            "gtins": [
+                "78624281223653",
+                "51544453662153",
+                "8923942832875",
+                "19139229819137",
+                "99724454717946"
+            ],
+            "title": "Ergonomic Wooden Towels",
+            "manufacturerColor": "green",
+            "previewImageSource": "http://placeimg.com/640/480/fashion",
+            "numberOfAssets": 4,
+            "status": "Rejected",
+            "classification": "toysAndGames|toys|playFigures",
+            "brand": "HAKA MODERN CASUAL",
+            "channel": "Refined",
+            "assets": [
+                {
+                    "id": "70f7a910-e605-41b6-9b52-41d138190666",
+                    "revisionReason": "",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "FullBody",
+                    "perspective": "FrontLeft",
+                    "mediaId": "01",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "fb4e44ae-496b-4fdf-a955-dec976739c82",
+                    "revisionReason": "",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "FrontLeft",
+                    "mediaId": "02",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "2716ef29-6df1-4722-bf48-54c17da64301",
+                    "revisionReason": "",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "FullBody",
+                    "perspective": "FrontLeft",
+                    "mediaId": "03",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "96a47065-14a9-4edd-8810-0a64e1fc3b33",
+                    "revisionReason": "",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "2000x2000",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "Back",
+                    "mediaId": "04",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                }
+            ]
+        },
+        {
+            "id": "1377bf88-2684-4475-85f7-0cc707d84fa5",
+            "gtins": [
+                "1519297662586",
+                "2216347979988",
+                "53236243667533"
+            ],
+            "title": "Unbranded Fresh Tuna",
+            "manufacturerColor": "magenta",
+            "previewImageSource": "http://placeimg.com/640/480/fashion",
+            "numberOfAssets": 2,
+            "status": "Rejected",
+            "classification": "toysAndGames|toys|playFigures",
+            "brand": "DENIM",
+            "channel": "Licensed",
+            "assets": [
+                {
+                    "id": "7abeefe9-7a4b-4485-b1f8-f9ba864e7ba8",
+                    "revisionReason": "",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "FullBody",
+                    "perspective": "BackAngle",
+                    "mediaId": "01",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "1726388d-308f-4878-a3a4-f1bd578afacb",
+                    "revisionReason": "",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "2000x2000",
+                    "subject": "NoHeadHumanModel",
+                    "perspective": "BackAngle",
+                    "mediaId": "02",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                }
+            ]
+        },
+        {
+            "id": "0e147908-a949-422b-909a-e8aa2e164d6d",
+            "gtins": [
+                "52465845375788",
+                "63974126754464",
+                "6581951698745",
+                "4164576527118",
+                "89622231599396"
+            ],
+            "title": "Awesome Plastic Soap",
+            "manufacturerColor": "silver",
             "previewImageSource": "http://placeimg.com/640/480/fashion",
             "numberOfAssets": 4,
             "status": "WaitingForReview",
             "classification": "toysAndGames|toys|playFigures",
             "brand": "HAKA MODERN CASUAL",
-            "channel": "Sleek",
-            "assets": [
-                {
-                    "id": "03c7e967-62dc-45de-be00-d9767c670af7",
-                    "revisionReason": "bad quality",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "1600x1600",
-                    "subject": "FullBody",
-                    "perspective": "Back",
-                    "mediaId": "1",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                },
-                {
-                    "id": "0564831a-0d4b-453f-84d1-fbc1ca0ca06f",
-                    "revisionReason": "bad quality",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "2000x200",
-                    "subject": "WithHeadHumanModel",
-                    "perspective": "BackAngle",
-                    "mediaId": "2",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                },
-                {
-                    "id": "bb808f52-dbb5-4f40-a81a-0b2369f957db",
-                    "revisionReason": "bad quality",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "2000x200",
-                    "subject": "NoHeadHumanModel",
-                    "perspective": "FrontLeft",
-                    "mediaId": "3",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                },
-                {
-                    "id": "aae62bff-4a74-479d-8622-a5fa761c1213",
-                    "revisionReason": "Background is cropped wrong",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "1600x1600",
-                    "subject": "WithHeadHumanModel",
-                    "perspective": "BackAngle",
-                    "mediaId": "1",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                }
-            ]
-        },
-        {
-            "id": "2ae838e2-c4d3-481d-a366-5eef87d91ea0",
-            "gtins": [
-                "2426158874533",
-                "87389446565957"
-            ],
-            "title": "Ergonomic Wooden Table",
-            "manufacturerColor": "salmon",
-            "previewImageSource": "http://placeimg.com/640/480/fashion",
-            "numberOfAssets": 4,
-            "status": "WaitingForReview",
-            "classification": "toysAndGames|toys|playFigures",
-            "brand": "DENIM",
-            "channel": "Sleek",
-            "assets": [
-                {
-                    "id": "e5a18872-bcc4-48bd-8a3c-ac475d162242",
-                    "revisionReason": "mistake by autoRetouch",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "2000x200",
-                    "subject": "WithHeadHumanModel",
-                    "perspective": "FrontLeft",
-                    "mediaId": "2",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                },
-                {
-                    "id": "1811b8e6-aa1b-4102-ba2a-1d4bfa5c512d",
-                    "revisionReason": "bad quality",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "1600x1600",
-                    "subject": "FullBody",
-                    "perspective": "FrontLeft",
-                    "mediaId": "3",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                },
-                {
-                    "id": "43729468-7c28-4078-b396-96887afcefdc",
-                    "revisionReason": "Background is cropped wrong",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "1600x1600",
-                    "subject": "WithHeadHumanModel",
-                    "perspective": "Back",
-                    "mediaId": "1",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                }
-            ]
-        },
-        {
-            "id": "c2448b47-2d46-4aa1-8a82-6da600ff5e66",
-            "gtins": [
-                "58451161299230",
-                "7956899456286",
-                "38871726394391",
-                "8243169543892",
-                "9286551983217"
-            ],
-            "title": "Handmade Steel Chair",
-            "manufacturerColor": "maroon",
-            "previewImageSource": "http://placeimg.com/640/480/fashion",
-            "numberOfAssets": 4,
-            "status": "WaitingForReview",
-            "classification": "toysAndGames|toys|playFigures",
-            "brand": "DENIM",
-            "channel": "Incredible",
-            "assets": [
-                {
-                    "id": "10054751-4df9-4b8b-8428-b00b6e7a7222",
-                    "revisionReason": "bad quality",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "1600x1600",
-                    "subject": "NoHeadHumanModel",
-                    "perspective": "BackAngle",
-                    "mediaId": "2",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                },
-                {
-                    "id": "99c2ca7a-cb00-4c12-83e1-2797030f7cff",
-                    "revisionReason": "mistake by autoRetouch",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "2000x200",
-                    "subject": "FullBody",
-                    "perspective": "Back",
-                    "mediaId": "3",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                },
-                {
-                    "id": "66f0b257-ab09-49fd-993e-f4cfd83dc20f",
-                    "revisionReason": "Background is cropped wrong",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "1600x1600",
-                    "subject": "NoHeadHumanModel",
-                    "perspective": "FrontLeft",
-                    "mediaId": "1",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                }
-            ]
-        },
-        {
-            "id": "95e5a97f-91f8-420f-99ca-a87d89d71d87",
-            "gtins": [
-                "3313576751193",
-                "1855492255684",
-                "9567346582763",
-                "12814173641368",
-                "57636177559687"
-            ],
-            "title": "Refined Frozen Chicken",
-            "manufacturerColor": "white",
-            "previewImageSource": "http://placeimg.com/640/480/fashion",
-            "numberOfAssets": 4,
-            "status": "WaitingForReview",
-            "classification": "toysAndGames|toys|playFigures",
-            "brand": "DENIM",
-            "channel": "Refined",
-            "assets": [
-                {
-                    "id": "aba12942-331d-444e-9e63-b00a72c37ede",
-                    "revisionReason": "bad quality",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "1600x1600",
-                    "subject": "WithHeadHumanModel",
-                    "perspective": "Front",
-                    "mediaId": "2",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                },
-                {
-                    "id": "ae2ebbb5-c702-4864-b934-b77248daf64e",
-                    "revisionReason": "bad quality",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "1600x1600",
-                    "subject": "FullBody",
-                    "perspective": "BackAngle",
-                    "mediaId": "3",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                },
-                {
-                    "id": "9a9e77c4-4285-4d5a-9e99-92a2a4583a3e",
-                    "revisionReason": "mistake by autoRetouch",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "1600x1600",
-                    "subject": "WithHeadHumanModel",
-                    "perspective": "Back",
-                    "mediaId": "1",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                }
-            ]
-        },
-        {
-            "id": "33f8d178-9596-4a67-94ad-9285a421c5eb",
-            "gtins": [
-                "11944195736248",
-                "18984273247827"
-            ],
-            "title": "Awesome Frozen Soap",
-            "manufacturerColor": "orange",
-            "previewImageSource": "http://placeimg.com/640/480/fashion",
-            "numberOfAssets": 4,
-            "status": "HAKA Rejected CASUAL",
-            "classification": "toysAndGames|toys|playFigures",
-            "brand": "ACCESSOIRES",
-            "channel": "Incredible",
-            "assets": [
-                {
-                    "id": "fbf405b7-f63e-41c3-901d-4409007f9eff",
-                    "revisionReason": "Background is cropped wrong",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "2000x200",
-                    "subject": "NoHeadHumanModel",
-                    "perspective": "FrontLeft",
-                    "mediaId": "2",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                },
-                {
-                    "id": "7d530e85-f0e8-45b3-b378-cadbffdc453f",
-                    "revisionReason": "mistake by autoRetouch",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "1600x1600",
-                    "subject": "FullBody",
-                    "perspective": "Back",
-                    "mediaId": "3",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                }
-            ]
-        },
-        {
-            "id": "0419a64e-100a-4cfc-967f-4af28a68d509",
-            "gtins": [
-                "2381667314715",
-                "63856256852919"
-            ],
-            "title": "Generic Metal Shoes",
-            "manufacturerColor": "teal",
-            "previewImageSource": "http://placeimg.com/640/480/fashion",
-            "numberOfAssets": 4,
-            "status": "HAKA Rejected CASUAL",
-            "classification": "toysAndGames|toys|playFigures",
-            "brand": "ACCESSOIRES",
             "channel": "Practical",
             "assets": [
                 {
-                    "id": "5c7739ba-4d1f-482b-beaa-0bbacd62de41",
-                    "revisionReason": "bad quality",
+                    "id": "1d7c4f1c-3605-4d62-9a3d-58b6ef28a6ac",
+                    "revisionReason": "",
                     "status": "WaitingForReview",
-                    "resolutionInPx": "1600x1600",
+                    "resolutionInPx": "2000x2000",
+                    "subject": "FullBody",
+                    "perspective": "Front",
+                    "mediaId": "01",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "b85e52d0-21d4-4ab1-a5f5-a433674d1477",
+                    "revisionReason": "",
+                    "status": "WaitingForReview",
+                    "resolutionInPx": "2000x2000",
                     "subject": "NoHeadHumanModel",
-                    "perspective": "BackAngle",
-                    "mediaId": "1",
+                    "perspective": "Front",
+                    "mediaId": "02",
                     "imageUrl": "http://placeimg.com/640/480/fashion"
                 },
                 {
-                    "id": "f8979ccc-a22f-463e-a92b-818b62366083",
-                    "revisionReason": "mistake by autoRetouch",
+                    "id": "474e9f7a-13d8-4943-92e1-1ae3116f4c37",
+                    "revisionReason": "",
                     "status": "WaitingForReview",
-                    "resolutionInPx": "2000x200",
+                    "resolutionInPx": "2000x2000",
                     "subject": "WithHeadHumanModel",
-                    "perspective": "Back",
-                    "mediaId": "2",
+                    "perspective": "Front",
+                    "mediaId": "03",
                     "imageUrl": "http://placeimg.com/640/480/fashion"
                 },
                 {
-                    "id": "d86e3bae-3d1c-43e4-b336-4825a27a6752",
-                    "revisionReason": "bad quality",
+                    "id": "85e12c54-cef0-42e1-8a72-8c8434f1c63e",
+                    "revisionReason": "",
                     "status": "WaitingForReview",
-                    "resolutionInPx": "1600x1600",
-                    "subject": "FullBody",
-                    "perspective": "Back",
-                    "mediaId": "3",
-                    "imageUrl": "http://placeimg.com/640/480/fashion"
-                },
-                {
-                    "id": "e052d763-c1f6-4355-beb6-9476aae4a24e",
-                    "revisionReason": "mistake by autoRetouch",
-                    "status": "WaitingForReview",
-                    "resolutionInPx": "1600x1600",
-                    "subject": "FullBody",
-                    "perspective": "BackAngle",
-                    "mediaId": "1",
+                    "resolutionInPx": "2000x2000",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "Front",
+                    "mediaId": "04",
                     "imageUrl": "http://placeimg.com/640/480/fashion"
                 }
             ]
         }
     ],
-    "rejectedGtingroups": [],
-    "revisionReasons": [
+    "rejectedGtingroups": [
         {
-            "id": "3df9682e-e2f1-4b64-bf3e-ca98ff0252fe",
-            "reason": "bad quality"
+            "id": "24cebc94-7bfc-4182-8044-9552ea31ce4d",
+            "gtins": [
+                "53141935816766",
+                "7251748188336",
+                "7484216381736",
+                "85834126194290",
+                "12927874145989"
+            ],
+            "title": "Licensed Rubber Cheese",
+            "manufacturerColor": "orchid",
+            "previewImageSource": "http://placeimg.com/640/480/fashion",
+            "numberOfAssets": 3,
+            "status": "Rejected",
+            "classification": "toysAndGames|toys|playFigures",
+            "brand": "HAKA MODERN CASUAL",
+            "channel": "Sleek",
+            "assets": [
+                {
+                    "id": "320412a4-dbf6-4ea2-ae84-ea7e01e2518b",
+                    "revisionReason": "mistake by autoRetouch",
+                    "status": "Rejected",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "FullBody",
+                    "perspective": "Back",
+                    "mediaId": "01",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "555b8fa8-d7a9-4759-8493-4260fa96c6b6",
+                    "revisionReason": "Background is cropped wrong",
+                    "status": "Rejected",
+                    "resolutionInPx": "2000x2000",
+                    "subject": "FullBody",
+                    "perspective": "Back",
+                    "mediaId": "02",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "7a60410d-fbc1-454a-8a95-44c335c05370",
+                    "revisionReason": "bad quality",
+                    "status": "Rejected",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "FullBody",
+                    "perspective": "FrontLeft",
+                    "mediaId": "03",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                }
+            ]
         },
         {
-            "id": "df967444-5b83-466a-b3bf-3cdedf6e5585",
+            "id": "f4533226-c034-4f4e-8aab-8bf7b5d3804a",
+            "gtins": [
+                "87975782755851",
+                "97256528276374"
+            ],
+            "title": "Small Rubber Salad",
+            "manufacturerColor": "plum",
+            "previewImageSource": "http://placeimg.com/640/480/fashion",
+            "numberOfAssets": 4,
+            "status": "Rejected",
+            "classification": "toysAndGames|toys|playFigures",
+            "brand": "SPORTGERAETE",
+            "channel": "Handmade",
+            "assets": [
+                {
+                    "id": "2d343ef9-446f-4fdd-85e2-c99933d823f8",
+                    "revisionReason": "mistake by autoRetouch",
+                    "status": "Rejected",
+                    "resolutionInPx": "2000x2000",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "Front",
+                    "mediaId": "01",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "9dd18427-31a1-4638-a8fa-377bc8e5dd2c",
+                    "revisionReason": "Background is cropped wrong",
+                    "status": "Rejected",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "NoHeadHumanModel",
+                    "perspective": "Back",
+                    "mediaId": "02",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "c37792a4-de71-48d8-a71e-49d3a300680e",
+                    "revisionReason": "mistake by autoRetouch",
+                    "status": "Rejected",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "BackAngle",
+                    "mediaId": "03",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "ac3cee5f-3c5b-440f-8b3e-9d2e5f2dc323",
+                    "revisionReason": "bad quality",
+                    "status": "Rejected",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "NoHeadHumanModel",
+                    "perspective": "Back",
+                    "mediaId": "04",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                }
+            ]
+        },
+        {
+            "id": "6212ce09-29cb-4b33-9631-9e47c2e5836d",
+            "gtins": [
+                "6652997267146",
+                "6464578289151"
+            ],
+            "title": "Unbranded Frozen Pants",
+            "manufacturerColor": "turquoise",
+            "previewImageSource": "http://placeimg.com/640/480/fashion",
+            "numberOfAssets": 3,
+            "status": "Rejected",
+            "classification": "toysAndGames|toys|playFigures",
+            "brand": "SPORTGERAETE",
+            "channel": "Handmade",
+            "assets": [
+                {
+                    "id": "b69a3147-7359-44a1-bee7-4fc3d21cd950",
+                    "revisionReason": "mistake by autoRetouch",
+                    "status": "Rejected",
+                    "resolutionInPx": "2000x2000",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "BackAngle",
+                    "mediaId": "01",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "2fc9817a-a1fc-472f-bd03-0d2a2bd67012",
+                    "revisionReason": "bad quality",
+                    "status": "Rejected",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "NoHeadHumanModel",
+                    "perspective": "BackAngle",
+                    "mediaId": "02",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "887ed711-fd02-47ac-8a3b-836510e48cce",
+                    "revisionReason": "Background is cropped wrong",
+                    "status": "Rejected",
+                    "resolutionInPx": "2000x2000",
+                    "subject": "NoHeadHumanModel",
+                    "perspective": "BackAngle",
+                    "mediaId": "03",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                }
+            ]
+        },
+        {
+            "id": "5bfaf5a3-5650-4703-82d0-9f03391c0608",
+            "gtins": [
+                "78681972714343",
+                "34313134111190",
+                "6148326423966"
+            ],
+            "title": "Intelligent Concrete Cheese",
+            "manufacturerColor": "orchid",
+            "previewImageSource": "http://placeimg.com/640/480/fashion",
+            "numberOfAssets": 2,
+            "status": "Rejected",
+            "classification": "toysAndGames|toys|playFigures",
+            "brand": "SPORTGERAETE",
+            "channel": "Handcrafted",
+            "assets": [
+                {
+                    "id": "e620d2a5-d723-4d14-9efd-f02b2dd3c278",
+                    "revisionReason": "bad quality",
+                    "status": "Rejected",
+                    "resolutionInPx": "2000x2000",
+                    "subject": "FullBody",
+                    "perspective": "Front",
+                    "mediaId": "01",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "612c7838-a74d-4b64-a08a-f91bb8242789",
+                    "revisionReason": "Background is cropped wrong",
+                    "status": "Rejected",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "FullBody",
+                    "perspective": "Back",
+                    "mediaId": "02",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                }
+            ]
+        },
+        {
+            "id": "9115865e-f778-43e7-ac82-04abbb56fea9",
+            "gtins": [
+                "6959916926998",
+                "7457612641116",
+                "11721139891311",
+                "62541216991332",
+                "19338813211830"
+            ],
+            "title": "Small Concrete Ball",
+            "manufacturerColor": "mint green",
+            "previewImageSource": "http://placeimg.com/640/480/fashion",
+            "numberOfAssets": 2,
+            "status": "Rejected",
+            "classification": "toysAndGames|toys|playFigures",
+            "brand": "SPORTGERAETE",
+            "channel": "Ergonomic",
+            "assets": [
+                {
+                    "id": "03d4fcb3-ef08-4e81-a8bd-4373c290a37c",
+                    "revisionReason": "bad quality",
+                    "status": "Rejected",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "NoHeadHumanModel",
+                    "perspective": "Back",
+                    "mediaId": "01",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "2bf315b7-dd19-4be0-8db5-980a87417550",
+                    "revisionReason": "Background is cropped wrong",
+                    "status": "Rejected",
+                    "resolutionInPx": "2000x2000",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "BackAngle",
+                    "mediaId": "02",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                }
+            ]
+        },
+        {
+            "id": "817eb633-0c8a-45e2-ad0e-9a563787b220",
+            "gtins": [
+                "8868194312937",
+                "1349338439837"
+            ],
+            "title": "Unbranded Wooden Keyboard",
+            "manufacturerColor": "salmon",
+            "previewImageSource": "http://placeimg.com/640/480/fashion",
+            "numberOfAssets": 2,
+            "status": "Rejected",
+            "classification": "toysAndGames|toys|playFigures",
+            "brand": "SPORTGERAETE",
+            "channel": "Handmade",
+            "assets": [
+                {
+                    "id": "c444d67b-d658-4eca-9804-1b28b55d2ffc",
+                    "revisionReason": "Background is cropped wrong",
+                    "status": "Rejected",
+                    "resolutionInPx": "2000x2000",
+                    "subject": "FullBody",
+                    "perspective": "Front",
+                    "mediaId": "01",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                },
+                {
+                    "id": "3b0333a6-c2fb-46a9-ac77-f27a0d6db5d1",
+                    "revisionReason": "Background is cropped wrong",
+                    "status": "Rejected",
+                    "resolutionInPx": "1600x1600",
+                    "subject": "WithHeadHumanModel",
+                    "perspective": "Back",
+                    "mediaId": "02",
+                    "imageUrl": "http://placeimg.com/640/480/fashion"
+                }
+            ]
+        }
+    ],
+    "revisionReasons": [
+        {
+            "id": "7e87bf17-b971-46c9-9943-763afca39e3d",
             "reason": "mistake by autoRetouch"
         },
         {
-            "id": "ac12665d-7d56-4b3e-990a-4e00b0d24d9c",
+            "id": "66a9f1cc-a4de-4246-8175-3c56450ec41c",
+            "reason": "Background is cropped wrong"
+        },
+        {
+            "id": "480ce8b9-4d38-41b2-935b-1a48c6bd9ec3",
             "reason": "bad quality"
         }
     ]
